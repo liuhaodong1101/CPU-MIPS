@@ -1,0 +1,53 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1/CPU5(1)/CPU5/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1/CPU5(1)/CPU5/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "RF.v" in library work
+Compiling verilog file "Npcmodule.v" in library work
+Module <RF> compiled
+Compiling verilog file "Mux.v" in library work
+Module <Npcmodule> compiled
+Compiling verilog file "IFU.v" in library work
+Module <Mux> compiled
+Compiling verilog file "DM.v" in library work
+Module <IFU> compiled
+Compiling verilog file "ALU.v" in library work
+Module <DM> compiled
+Compiling verilog file "DataPath.v" in library work
+Module <ALU> compiled
+Compiling verilog file "ControlModule.v" in library work
+Module <DataPath> compiled
+Compiling verilog file "mips.v" in library work
+Module <ControlModule> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.11 secs
+ 
+--> 
+
+Total memory usage is 4471192 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

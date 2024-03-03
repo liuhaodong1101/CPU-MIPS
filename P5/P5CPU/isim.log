@@ -1,0 +1,105 @@
+ISim log file
+Running: C:\Users\Administrator.DESKTOP-E5KEEAC\Desktop\CPU\P5\P5CPU\y_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                 110@00003000: $ 5 <= 00000064
+                 130@00003004: $ 6 <= 00000064
+                 150@00003008: $ 9 <= 00000064
+                 150@0000300c: *00000000 <= 00000064
+                 190@00003010: $10 <= 00000064
+                 210@00003014: $11 <= 00000064
+                 230@00003018: $31 <= 00000064
+                 250@0000301c: $31 <= 00003024
+                 290@00003030: $ 9 <= 00000064
+                 310@00003034: $10 <= 00000064
+                 330@00003038: $11 <= 00000064
+                 350@0000303c: $12 <= 00000064
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                 110@00003000: $ 5 <= 00000064
+                 130@00003004: $ 6 <= 00000064
+                 150@00003008: $ 9 <= 00000064
+                 150@0000300c: *00000000 <= 00000064
+                 190@00003010: $10 <= 00000064
+                 210@00003014: $11 <= 00000064
+                 230@00003018: $31 <= 00000064
+                 250@0000301c: $31 <= 00003024
+                 290@00003030: $ 9 <= 00000064
+                 310@00003034: $10 <= 00000064
+                 330@00003038: $11 <= 00000064
+                 350@0000303c: $12 <= 00000064
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                 110@00003000: $ 5 <= 00000064
+                 130@00003004: $ 6 <= 00000064
+                 150@00003008: $ 9 <= 00000064
+                 150@0000300c: *00000000 <= 00000064
+                 190@00003010: $10 <= 00000064
+                 210@00003014: $11 <= 00000064
+                 230@00003018: $31 <= 00000064
+                 250@0000301c: $31 <= 00003024
+                 290@00003030: $ 9 <= 00000064
+                 310@00003034: $10 <= 00000064
+                 330@00003038: $11 <= 00000064
+                 350@0000303c: $12 <= 00000064
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                 110@00003000: $ 5 <= 00000064
+                 130@00003004: $ 6 <= 00000064
+                 150@00003008: $ 9 <= 00000064
+                 150@0000300c: *00000000 <= 00000064
+                 190@00003010: $10 <= 00000064
+                 210@00003014: $11 <= 00000064
+                 230@00003018: $31 <= 00000064
+                 250@0000301c: $31 <= 00003024
+                 290@00003030: $ 9 <= 00000064
+                 310@00003034: $10 <= 00000064
+                 330@00003038: $11 <= 00000064
+                 350@0000303c: $12 <= 00000064
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                 110@00003000: $ 5 <= 00000064
+                 130@00003004: $ 6 <= 00000064
+                 150@00003008: $ 9 <= 00000064
+                 150@0000300c: *00000000 <= 00000064
+                 190@00003010: $10 <= 00000064
+                 210@00003014: $11 <= 00000064
+                 230@00003018: $31 <= 00000064
+                 250@0000301c: $31 <= 00003024
+                 290@00003030: $ 9 <= 00000064
+                 310@00003034: $10 <= 00000064
+                 330@00003038: $11 <= 00000064
+                 350@0000303c: $12 <= 00000064

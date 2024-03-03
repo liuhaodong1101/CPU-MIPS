@@ -1,0 +1,58 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/mips_txt_isim_beh.exe" -prj "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/mips_txt_beh.prj" "work.mips_txt" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/RF.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Reg_W.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Reg_M.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Reg_E2.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Reg_E.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Reg_D.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Npcmodule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/MDU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/IFU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/E_exceptionfixed.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Extend.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/DMEXT.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/CP0.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/ControlModule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/CMP.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/BE.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Timer.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/CPU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/Bridge.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/mips.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/mips_txt.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IFU
+Compiling module Reg_D
+Compiling module ControlModule
+Compiling module Npcmodule
+Compiling module RF
+Compiling module Extend
+Compiling module CMP
+Compiling module Reg_E
+Compiling module Reg_E2
+Compiling module MDU
+Compiling module ALU
+Compiling module E_exceptionfixed
+Compiling module Reg_M
+Compiling module BE
+Compiling module DMEXT
+Compiling module CP0
+Compiling module Reg_W
+Compiling module CPU
+Compiling module Timer
+Compiling module Bridge
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 23 Verilog Units
+Built simulation executable C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/1211/P7/mips_txt_isim_beh.exe
+Fuse Memory Usage: 35440 KB
+Fuse CPU Usage: 483 ms

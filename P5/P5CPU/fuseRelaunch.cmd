@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_isim_beh.exe" -prj "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_beh.prj" "work.y" "work.glbl" 

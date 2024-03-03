@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/xst"
+elaborate
+-ifn Reg_M.prj
+-ifmt mixed

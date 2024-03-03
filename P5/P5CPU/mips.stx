@@ -1,0 +1,67 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU1/P5CPU/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU1/P5CPU/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.07 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "RF.v" in library work
+Compiling verilog file "Reg_W.v" in library work
+Module <RF> compiled
+Compiling verilog file "Reg_M.v" in library work
+Module <Reg_W> compiled
+Compiling verilog file "Reg_E2.v" in library work
+Module <Reg_M> compiled
+Compiling verilog file "Reg_E.v" in library work
+Module <Reg_E2> compiled
+Compiling verilog file "Reg_D.v" in library work
+Module <Reg_E> compiled
+Compiling verilog file "Npcmodule.v" in library work
+Module <Reg_D> compiled
+Compiling verilog file "IFU.v" in library work
+Module <Npcmodule> compiled
+Compiling verilog file "Extend.v" in library work
+Module <IFU> compiled
+Compiling verilog file "DMEXT.v" in library work
+Module <Extend> compiled
+Compiling verilog file "DM.v" in library work
+Module <DMEXT> compiled
+Compiling verilog file "ControlModule.v" in library work
+Module <DM> compiled
+Compiling verilog file "CMP.v" in library work
+Module <ControlModule> compiled
+Compiling verilog file "BE.v" in library work
+Module <CMP> compiled
+Compiling verilog file "ALU.v" in library work
+Module <BE> compiled
+Compiling verilog file "mips.v" in library work
+Module <ALU> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> 
+
+Total memory usage is 4471000 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

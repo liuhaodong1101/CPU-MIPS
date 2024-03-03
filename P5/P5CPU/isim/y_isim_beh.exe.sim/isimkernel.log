@@ -1,0 +1,10 @@
+Command line:
+   y_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  7333
+
+Tue Nov 29 11:44:51 2022
+
+
+ Elaboration Time: 0.03125 sec

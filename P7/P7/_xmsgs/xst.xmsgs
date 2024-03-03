@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;CPU.v&quot; line 516 </arg>Connection to input port &apos;<arg fmt="%s" index="2">reg_name</arg>&apos; does not match port size
+</msg>
+
+<msg type="warning" file="HDLCompilers" num="259" delta="new" ><arg fmt="%s" index="1">&quot;CPU.v&quot; line 517 </arg>Connection to input port &apos;<arg fmt="%s" index="2">imm_as_dec</arg>&apos; does not match port size
+</msg>
+
+<msg type="error" file="Xst" num="0" delta="new" ><arg fmt="%s" index="1">&quot;mips_txt.v&quot; line 3: </arg>Module &lt;<arg fmt="%s" index="2">mips_txt</arg>&gt; has no port.
+</msg>
+
+</messages>
+

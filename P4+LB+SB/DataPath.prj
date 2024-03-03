@@ -1,0 +1,7 @@
+verilog work "RF.v"
+verilog work "Npcmodule.v"
+verilog work "Mux.v"
+verilog work "IFU.v"
+verilog work "DM.v"
+verilog work "ALU.v"
+verilog work "DataPath.v"

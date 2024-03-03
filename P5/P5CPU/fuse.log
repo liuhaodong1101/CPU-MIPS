@@ -1,0 +1,48 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_isim_beh.exe" -prj "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_beh.prj" "work.y" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/RF.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Reg_W.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Reg_M.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Reg_E2.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Reg_E.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Reg_D.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Npcmodule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/IFU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/Extend.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/DMEXT.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/DM.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/ControlModule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/CMP.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/BE.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/mips.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IFU
+Compiling module Reg_D
+Compiling module ControlModule
+Compiling module Npcmodule
+Compiling module RF
+Compiling module Extend
+Compiling module CMP
+Compiling module Reg_E
+Compiling module Reg_E2
+Compiling module ALU
+Compiling module Reg_M
+Compiling module BE
+Compiling module DM
+Compiling module DMEXT
+Compiling module Reg_W
+Compiling module mips
+Compiling module y
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 18 Verilog Units
+Built simulation executable C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/CPU/P5/P5CPU/y_isim_beh.exe
+Fuse Memory Usage: 33156 KB
+Fuse CPU Usage: 359 ms

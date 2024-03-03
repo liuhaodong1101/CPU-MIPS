@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.xst" -ofn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim CPU.ngc CPU_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.xst" -ofn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.xst" -ofn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.xst" -ofn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.xst" -ofn "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/P7/CPU.syr" 

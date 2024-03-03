@@ -1,0 +1,48 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/mips_tb_isim_beh.exe -prj C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/mips_tb_beh.prj work.mips_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/RF.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Reg_W.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Reg_M.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Reg_E2.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Reg_E.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Reg_D.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Npcmodule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/MDU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/IFU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/Extend.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/DMEXT.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/ControlModule.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/CMP.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/BE.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/ALU.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/mips.v" into library work
+Analyzing Verilog file "C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/mips_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module IFU
+Compiling module Reg_D
+Compiling module ControlModule
+Compiling module Npcmodule
+Compiling module RF
+Compiling module Extend
+Compiling module CMP
+Compiling module Reg_E
+Compiling module Reg_E2
+Compiling module MDU
+Compiling module ALU
+Compiling module Reg_M
+Compiling module BE
+Compiling module DMEXT
+Compiling module Reg_W
+Compiling module mips
+Compiling module mips_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 18 Verilog Units
+Built simulation executable C:/Users/Administrator.DESKTOP-E5KEEAC/Desktop/p6new/P6/mips_tb_isim_beh.exe
+Fuse Memory Usage: 33080 KB
+Fuse CPU Usage: 452 ms
