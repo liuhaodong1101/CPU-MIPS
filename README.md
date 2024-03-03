@@ -1,2 +1,1 @@
-# MIPS-CPU
 # CPU-MIPS
